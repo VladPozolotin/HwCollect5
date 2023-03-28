@@ -22,6 +22,7 @@ public class Person {
     public void setSurname(String surname) {
         this.surname = surname;
     }
+
     public String getName() {
         return this.name;
     }
